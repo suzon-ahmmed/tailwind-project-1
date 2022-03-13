@@ -1,0 +1,24 @@
+{
+    "name": "tailwind-project-1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tailwindcss -i src/tailwind.css -o public/css/style.css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/suzon-ahmmed/tailwind-project-1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/suzon-ahmmed/tailwind-project-1/issues"
+    },
+    "homepage": "https://github.com/suzon-ahmmed/tailwind-project-1#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "tailwindcss": "^3.0.23"
+    }
+}

@@ -1,0 +1,15 @@
+.btn {
+    @apply text-center bg-blue-300;
+}
+
+.para {
+    @apply text-4xl font-mono py-2;
+}
+
+.nav-item {
+    @apply px-4 text-blue-100 font-mono font-bold
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
